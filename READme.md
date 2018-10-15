@@ -1,73 +1,73 @@
-# personal_respo2_aggs
-this code is for aggs_index
-# Ç°ï¿½ï¿½<br>
-ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú»ï¿½È¡ï¿½ï¿½ï¿½ï¿½ï¿½é±¨ï¿½ï¿½ï¿½ï¿½ï¿½imapï¿½Ð¼ï¿½Â¼ï¿½ï¿½Ä¿ï¿½ï¿½ipï¿½ï¿½Ö·ï¿½ï¿½ï¿½Ð¼ï¿½é£¬ï¿½ï¿½Ä¿ï¿½ï¿½ipï¿½ï¿½ï¿½é±¨ï¿½Ð³ï¿½ï¿½Öµï¿½ipÆ¥ï¿½ä£¬ï¿½ò·¢³ï¿½ï¿½æ¾¯ï¿½ï¿½Ï¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ¾¯ï¿½ï¿½Ï¢Ð´ï¿½ï¿½ESï¿½Ð¡ï¿½<br>
+# personal_respo2
+The code is for aggs_index
+# Ç°ÑÔ<br>
+±¾³ÌÐòÓÃÓÚ»ñÈ¡ÍøÂçÇé±¨£¬Õë¶ÔimapÖÐ¼ÇÂ¼µÄÄ¿µÄipµØÖ·½øÐÐ¼ì²é£¬ÈôÄ¿µÄipÓëÇé±¨ÖÐ³öÏÖµÄipÆ¥Åä£¬Ôò·¢³ö¸æ¾¯ÐÅÏ¢£¬²¢½«¸æ¾¯ÐÅÏ¢Ð´ÈëESÖÐ¡£<br>
 
-ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Linuxï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð£ï¿½ï¿½ï¿½ï¿½ï¿½python 2.7ï¿½ï·¨ï¿½æ·¶ï¿½ï¿½Ð´ï¿½ï¿½ï¿½ï¿½Òªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â£ï¿½
-jsonï¿½ï¿½loggingï¿½ï¿½datetimeï¿½ï¿½timeï¿½ï¿½elasticsearchï¿½ï¿½ConfigParserï¿½ï¿½socketï¿½ï¿½structï¿½ï¿½reï¿½ï¿½requestsï¿½ï¿½bs4ï¿½ï¿½lxml
+±¾³ÌÐòÐèÔÚLinux»·¾³ÏÂÔËÐÐ£¬»ùÓÚpython 2.7Óï·¨¹æ·¶±àÐ´£¬Ö÷ÒªµÄÏà¹ØÒÀÀµ°üÈçÏÂ£º
+json¡¢logging¡¢datetime¡¢time¡¢elasticsearch¡¢ConfigParser¡¢socket¡¢struct¡¢re¡¢requests¡¢bs4¡¢lxml
 <br>
-ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½GitHubï¿½ï¿½Ö·Îªï¿½ï¿½https://github.com/sh9369/personal_respo2
+±¾³ÌÐòGitHubµØÖ·Îª£ºhttps://github.com/sh9369/personal_respo2
 <br>
-## ï¿½ï¿½ï¿½ï¿½
-1. GitHubï¿½ï¿½Ò³ï¿½ï¿½Ê¹ï¿½ï¿½zipï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Øµï¿½personal_respo2-master.zipï¿½ï¿½ï¿½ï¿½Ñ¹ï¿½ï¿½ï¿½personal_respo2ï¿½Ä¼ï¿½ï¿½Ð£ï¿½ï¿½ï¿½Ê¹ï¿½ï¿½git clone ï¿½ï¿½ï¿½ï¿½Ö±ï¿½ï¿½ï¿½ï¿½ï¿½Ø¡ï¿½ï¿½ï¿½Òªï¿½ï¿½ï¿½Ä¼ï¿½Ä¿Â¼ï¿½ï¿½Ê½ï¿½ï¿½ï¿½Â£ï¿½
+## ÏÂÔØ
+1. GitHubÖ÷Ò³ÉÏÊ¹ÓÃzip´ò°üÏÂÔØµÃpersonal_respo2-master.zip£¬½âÑ¹ºóµÃpersonal_respo2ÎÄ¼þ¼Ð£»»òÊ¹ÓÃgit clone ÃüÁîÖ±½ÓÏÂÔØ¡£Ö÷ÒªµÄÎÄ¼þÄ¿Â¼ÐÎÊ½ÈçÏÂ£º
 ```
 personal_respo2:
-|ï¿½ï¿½ï¿½ï¿½projectï¿½ï¿½				ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½Ä¿Â¼
-    |ï¿½ï¿½ï¿½ï¿½data: 				ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ý´ï¿½ï¿½Ä¿Â¼
-        |ï¿½ï¿½ï¿½ï¿½logï¿½ï¿½			ï¿½ï¿½Ö¾ï¿½Ä¼ï¿½Ä¿Â¼
-	|ï¿½ï¿½ï¿½ï¿½self_blacklistï¿½ï¿½		ï¿½ï¿½ï¿½Øºï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½Ä¿Â¼
-	|ï¿½ï¿½ï¿½ï¿½self_defaultlistï¿½ï¿½		ï¿½ï¿½ï¿½ï¿½Ä¬ï¿½ï¿½ï¿½é±¨Ô´Ä¿Â¼
-	|ï¿½ï¿½ï¿½ï¿½self_whitelistï¿½ï¿½		ï¿½ï¿½ï¿½Ø°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½Ä¿Â¼
-    |ï¿½ï¿½ï¿½ï¿½get_blacklistï¿½ï¿½			ï¿½ï¿½ï¿½ï¿½ï¿½é±¨Ô´ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½ï¿½Ä¿Â¼
-	|ï¿½ï¿½ï¿½ï¿½MiningServerIPList.pyï¿½ï¿½	ï¿½ï¿½ï¿½å´¦ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é±¨ï¿½ï¿½ï¿½Ä¼ï¿½
-	|ï¿½ï¿½ï¿½ï¿½  ......
-    |ï¿½ï¿½ï¿½ï¿½lpm: 				lpmï¿½ã·¨ï¿½ï¿½ï¿½ï¿½Ä¿Â¼
-    |ï¿½ï¿½ï¿½ï¿½blacklist_match.confï¿½ï¿½		ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½
-    |ï¿½ï¿½ï¿½ï¿½blacklist_tools.pyï¿½ï¿½		ï¿½ï¿½ï¿½ò¹«¹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½
-    |ï¿½ï¿½ï¿½ï¿½update_blacklist.pyï¿½ï¿½		ï¿½ï¿½ï¿½Âºï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½
-    |ï¿½ï¿½ï¿½ï¿½match_insert.pyï¿½ï¿½		Æ¥ï¿½ï¿½ï¿½Ô¼ï¿½ï¿½ï¿½ï¿½ï¿½ESï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½
-    |ï¿½ï¿½ï¿½ï¿½ontime_run.pyï¿½ï¿½			ï¿½ï¿½ï¿½ï¿½ï¿½Ð³ï¿½ï¿½ï¿½
-    |ï¿½ï¿½ï¿½ï¿½parser_config.pyï¿½ï¿½		ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½
-    |ï¿½ï¿½ï¿½ï¿½subnet_range.pyï¿½ï¿½		IPï¿½ï¿½ï¿½ï¿½ï¿½Î´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½
-    |ï¿½ï¿½ï¿½ï¿½treat_ip.pyï¿½ï¿½			IPï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½
-    |ï¿½ï¿½ï¿½ï¿½ip_check_C2.pyï¿½ï¿½			ï¿½ï¿½ï¿½Î¼ï¿½é´¦ï¿½ï¿½ï¿½Ä¼ï¿½
-    |ï¿½ï¿½ï¿½ï¿½check_XForce.pyï¿½ï¿½		ï¿½ï¿½È¡xforceï¿½ï¿½Ï¢ï¿½Ä¼ï¿½
+|¡ª¡ªproject£º				³ÌÐòÖ÷ÎÄ¼þÄ¿Â¼
+    |¡ª¡ªdata: 				³ÌÐòÊý¾Ý´æ·ÅÄ¿Â¼
+        |¡ª¡ªlog£º			ÈÕÖ¾ÎÄ¼þÄ¿Â¼
+	|¡ª¡ªself_blacklist£º		±¾µØºÚÃûµ¥ÎÄ¼þÄ¿Â¼
+	|¡ª¡ªself_defaultlist£º		±¾µØÄ¬ÈÏÇé±¨Ô´Ä¿Â¼
+	|¡ª¡ªself_whitelist£º		±¾µØ°×Ãûµ¥ÎÄ¼þÄ¿Â¼
+    |¡ª¡ªget_blacklist£º			ÍøÂçÇé±¨Ô´´¦ÀíÎÄ¼þ´æ·ÅÄ¿Â¼
+	|¡ª¡ªMiningServerIPList.py£º	¾ßÌå´¦ÀíÍøÂçÇé±¨µÄÎÄ¼þ
+	|¡ª¡ª  ......
+    |¡ª¡ªlpm: 				lpmËã·¨¼¯³ÉÄ¿Â¼
+    |¡ª¡ªblacklist_match.conf£º		³ÌÐòÅäÖÃÎÄ¼þ
+    |¡ª¡ªblacklist_tools.py£º		³ÌÐò¹«¹²º¯Êý·½·¨ÎÄ¼þ
+    |¡ª¡ªupdate_blacklist.py£º		¸üÐÂºÚÃûµ¥ÎÄ¼þ
+    |¡ª¡ªmatch_insert.py£º		Æ¥ÅäÒÔ¼°²åÈëES²Ù×÷ÎÄ¼þ
+    |¡ª¡ªontime_run.py£º			Ö÷ÔËÐÐ³ÌÐò
+    |¡ª¡ªparser_config.py£º		ÅäÖÃÎÄ¼þ²Ù×÷º¯ÊýÎÄ¼þ
+    |¡ª¡ªsubnet_range.py£º		IP×ÓÍø¶Î´¦Àíº¯ÊýÎÄ¼þ
+    |¡ª¡ªtreat_ip.py£º			IP²Ù×÷´¦Àíº¯ÊýÎÄ¼þ
+    |¡ª¡ªip_check_C2.py£º			¶þ´Î¼ì²é´¦ÀíÎÄ¼þ
+    |¡ª¡ªcheck_XForce.py£º		»ñÈ¡xforceÐÅÏ¢ÎÄ¼þ
 ```
-## ï¿½ï¿½ï¿½ï¿½
-2.ï¿½ï¿½ï¿½ï¿½Ç°ï¿½ï¿½ï¿½ï¿½blacklist_match.confï¿½Ä¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ã²ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¸Ä£ï¿½
-<br>2.1 ï¿½Þ¸ï¿½[frequency]ï¿½Âµï¿½starttimeï¿½ï¿½ï¿½ï¿½Ê¾ï¿½ï¿½Ê¼ï¿½ï¿½ï¿½Ê±ï¿½ä£»
-<br>2.2 ï¿½Þ¸ï¿½[ES_info]ï¿½Â¶ï¿½Ó¦ï¿½ï¿½server/dportï¿½ï¿½Ï¢ï¿½ï¿½
-<br>2.3 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Øºï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[self_blacklist_path]ï¿½ï¿½ï¿½ï¿½blacklist_flg=1ï¿½ï¿½pathï¿½ï¿½Ó¦ï¿½Ú±ï¿½ï¿½Øºï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¬ï¿½ï¿½Ä¿Â¼ï¿½ï¿½
-ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¬ï¿½ï¿½ï¿½é±¨Ô´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½Â¡ï¿½
-<br>2.4 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[update_flg]ï¿½ï¿½updateFlg=0ï¿½ï¿½ï¿½Ô±ï¿½Ø±Õ¸ï¿½ï¿½Â¹ï¿½ï¿½Ü¡ï¿½
+## ÔËÐÐ
+2.ÔËÐÐÇ°£¬¶Ôblacklist_match.confÎÄ¼þ½øÐÐÅäÖÃ²ÎÊýµÄÐÞ¸Ä£º
+<br>2.1 ÐÞ¸Ä[frequency]ÏÂµÄstarttime£¬±íÊ¾¿ªÊ¼¼ì²éÊ±¼ä£»
+<br>2.2 ÐÞ¸Ä[ES_info]ÏÂ¶ÔÓ¦µÄserver/dportÐÅÏ¢£»
+<br>2.3 ÈôÐèÆô¶¯±¾µØºÚÃûµ¥£¬ÇëÔÚ[self_blacklist_path]ÏÂÁîblacklist_flg=1£¬path¶ÔÓ¦ÓÚ±¾µØºÚÃûµ¥µÄÄ¬ÈÏÄ¿Â¼£»
+°×Ãûµ¥ºÍÄ¬ÈÏÇé±¨Ô´µÄÆô¶¯ÉèÖÃÓëºÚÃûµ¥Ò»ÖÂ¡£
+<br>2.4 ÎÞÍøÂçÇé¿öÏÂ£¬ÇëÉèÖÃ[update_flg]ÏÂupdateFlg=0£¬ÒÔ±ã¹Ø±Õ¸üÐÂ¹¦ÄÜ¡£
 <br>
-<br>3.ï¿½ï¿½×°ï¿½ï¿½É¶ï¿½Ó¦pythonï¿½æ±¾ï¿½Ô¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ó£¬½ï¿½ï¿½ï¿½/projectÄ¿Â¼ï¿½ï¿½Ê¹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+<br>3.°²×°Íê³É¶ÔÓ¦python°æ±¾ÒÔ¼°ÒÀÀµ°üºó£¬½øÈë/projectÄ¿Â¼ÏÂÊ¹ÓÃÒÔÏÂÃüÁîÆô¶¯³ÌÐò£º
 <br>nohup python ontime_run.py & 
-<br>ï¿½ï¿½ï¿½Ù´Î»Ø³ï¿½ï¿½ï¿½
-<br>Ê¹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é¿´ï¿½ï¿½Ö¾ï¿½Ä¼ï¿½ï¿½ï¿½
+<br>¡¾ÔÙ´Î»Ø³µ¡¿
+<br>Ê¹ÓÃÒÔÏÂÃüÁî²é¿´ÈÕÖ¾ÎÄ¼þ£º
 <br>tail -50f ./data/log/testlog
-<br>ï¿½ï¿½Ö¾ï¿½Ä¼ï¿½ï¿½ï¿½ï¿½Â¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ðµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö¾ï¿½Ä¼ï¿½ï¿½ï¿½ï¿½ï¿½Ð´ï¿½ï¿½ï¿½ï¿½ï¿½Ýºï¿½ï¿½Ê¾ï¿½ï¿½ï¿½ï¿½ï¿½Ñ¾ï¿½ï¿½ï¿½ï¿½Ð¡ï¿½
+<br>ÈÕÖ¾ÎÄ¼þ»á¼ÇÂ¼³ÌÐòÔËÐÐÖÐµÄÏà¹ØÐÅÏ¢£¬µ±¿´µ½ÈÕÖ¾ÎÄ¼þ²»¶ÏÐ´ÈëÄÚÈÝºó±íÊ¾³ÌÐòÒÑ¾­ÔËÐÐ¡£
 <br>
 <br>
-## ï¿½ï¿½ï¿½ï¿½ï¿½é±¨Ô´
-4.ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é±¨Ô´ï¿½Ä·ï¿½ï¿½ï¿½
-<br>4.1 ï¿½ï¿½/get_blacklistÄ¿Â¼ï¿½ï¿½ï¿½Â½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÎªXXX.pyï¿½ï¿½
+## Ôö¼ÓÇé±¨Ô´
+4.Ôö¼ÓÍøÂçÇé±¨Ô´µÄ·½·¨
+<br>4.1 ÔÚ/get_blacklistÄ¿Â¼ÏÂÐÂ½¨Ò»¸ö´¦ÀíÎÄ¼þ£¬¼ÙÉèÎªXXX.py£»
 <br>
-4.2 ï¿½ï¿½XXX.pyï¿½Ð±ï¿½Ð´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é±¨ï¿½ï¿½ï¿½ï¿½/ï¿½ï¿½Ï´/ï¿½æ´¢ï¿½ï¿½ï¿½Ì£ï¿½ï¿½ï¿½Ø±ï¿½Ö¤ï¿½ï¿½ï¿½Õ´æ´¢ï¿½ï¿½ï¿½ï¿½ï¿½Ý¸ï¿½Ê½ï¿½ï¿½ï¿½Â£ï¿½
+4.2 ÔÚXXX.pyÖÐ±àÐ´ÍêÕûµÄÇé±¨ÏÂÔØ/ÇåÏ´/´æ´¢¹ý³Ì£¬Îñ±Ø±£Ö¤×îÖÕ´æ´¢µÄÊý¾Ý¸ñÊ½ÈçÏÂ£º
 
 `{
 
     "ip1":
 
-        {    #ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î¿ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½
+        {    #¾ßÌåÊôÐÔÓòÇë²Î¿¼ÆäËû´¦ÀíÎÄ¼þ
 
-           ï¿½ï¿½subtypeï¿½ï¿½ï¿½ï¿½ï¿½ï¿½mining_poolï¿½ï¿½
+           ¡°subtype¡±£º¡°mining_pool¡±
 
-            ï¿½ï¿½desc_subtypeï¿½ï¿½ï¿½ï¿½ï¿½ï¿½... ... "
+            ¡°desc_subtype¡±£º¡°... ... "
 
              ... .... 
 
-        }ï¿½ï¿½
+        }£¬
 
     "ip2":
 
@@ -75,31 +75,31 @@ personal_respo2:
 
             ... ...
 
-        }ï¿½ï¿½
+        }£¬
 
         ... ... 
 
 }`
-<br>4.3 È·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é±¨ï¿½ï¿½ï¿½ï¿½Ô´ï¿½Ä¸ï¿½ï¿½ï¿½Æµï¿½Ê£ï¿½ï¿½ï¿½blacklist_match.confï¿½Ä¼ï¿½ï¿½ï¿½[parse_blacklist]ï¿½Âµï¿½fun1Ä©Î²ï¿½ï¿½Ó¡ï¿½,XXX:frequency"
+<br>4.3 È·¶¨ÍøÂçÇé±¨Êý¾ÝÔ´µÄ¸üÐÂÆµÂÊ£¬ÔÚblacklist_match.confÎÄ¼þÖÐ[parse_blacklist]ÏÂµÄfun1Ä©Î²Ìí¼Ó¡°,XXX:frequency"
 <br>
 <br>
-## XForceï¿½ï¿½Ï¢
-5.ï¿½ï¿½È¡XForce ï¿½ï¿½Ï¢ï¿½ï¿½
-<br>5.1 ï¿½ï¿½Òªï¿½Ä¼ï¿½ï¿½ï¿½ check_XForce.py
+## XForceÐÅÏ¢
+5.»ñÈ¡XForce ÐÅÏ¢£º
+<br>5.1 Ö÷ÒªÎÄ¼þ£º check_XForce.py
 <br>
-5.2 ï¿½ï¿½ï¿½Ã·ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+5.2 µ÷ÓÃ·½·¨£º<br>
 ```
 import check_XForce as xf
 xf.start(1,lists)
 ```
- #start(stype,values,checkflg=1)Îªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½;<br>
+ #start(stype,values,checkflg=1)Îª³ÌÐòÈë¿Ú;<br>
  #params: <br>
-   stypeÈ¡ÖµÎª1ï¿½ï¿½2ï¿½ï¿½1ï¿½ï¿½Ê¾ï¿½ï¿½ï¿½Ä¶ï¿½ï¿½ï¿½valuesï¿½ï¿½IPï¿½Ð±ï¿½2ï¿½ï¿½Ê¾valuesï¿½ï¿½urlï¿½Ð±ï¿½<br>
-   valuesï¿½ï¿½Ê¾ï¿½ï¿½ï¿½ï¿½ï¿½IPï¿½ï¿½urlï¿½ï¿½ï¿½Ð±ï¿½<br>
-   checkflgÄ¬ï¿½ï¿½ÖµÎª1ï¿½ï¿½ï¿½ï¿½Ê¾Ð´ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½ï¿½ï¿½ÖµÎª0ï¿½ï¿½ï¿½ï¿½ï¿½Ê¾ï¿½ï¿½Ð´ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½<br>
+   stypeÈ¡ÖµÎª1»ò2£¬1±íÊ¾¼ì²éµÄ¶ÔÏóvaluesÊÇIPÁÐ±í£»2±íÊ¾valuesÊÇurlÁÐ±í£»<br>
+   values±íÊ¾¾ßÌåµÄIP»òurlµÄÁÐ±í£»<br>
+   checkflgÄ¬ÈÏÖµÎª1£¬±íÊ¾Ð´ÈëÎÄ¼þ£»Èô¸³ÖµÎª0£¬Ôò±íÊ¾²»Ð´ÈëÎÄ¼þ£»<br>
  #return:<br>
-   final_dic ï¿½ï¿½ï¿½Öµï¿½ï¿½ï¿½Ê½ï¿½ï¿½ï¿½Ø£ï¿½ï¿½ï¿½Ñ¯ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Îªkeyï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÖµÎªvalue<br>
- #example for returnï¿½ï¿½
+   final_dic £º×ÖµäÐÎÊ½·µ»Ø£¬²éÑ¯µÄÄÚÈÝÎªkey£¬ÆäËûÊôÐÔÖµÎªvalue<br>
+ #example for return£º
 ```
 {
 	"198.54.117.200": {
@@ -124,5 +124,5 @@ xf.start(1,lists)
     	}
 }
 ```
-<br>5.3 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô¼ï¿½×¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½check_XForce.py
+<br>5.3 ¸ü¶à²ÎÊýÒÔ¼°×¢ÊÍÇë¼û´úÂëÎÄ¼þcheck_XForce.py
 <br>
